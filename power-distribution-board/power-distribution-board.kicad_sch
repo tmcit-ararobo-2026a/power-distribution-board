@@ -1706,7 +1706,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 46.99 134.62 90)
+		(at 36.83 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1714,7 +1714,7 @@
 		(dnp no)
 		(uuid "01b6a4bd-b5f1-40bc-8531-5f999c83c339")
 		(property "Reference" "R1"
-			(at 46.99 130.302 90)
+			(at 36.83 130.302 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1722,7 +1722,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 46.99 131.826 90)
+			(at 36.83 131.826 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1730,7 +1730,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 46.99 136.398 90)
+			(at 36.83 136.398 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1739,7 +1739,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 134.62 0)
+			(at 36.83 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1748,7 +1748,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 46.99 134.62 0)
+			(at 36.83 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1757,7 +1757,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 46.99 134.62 0)
+			(at 36.83 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1766,7 +1766,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 46.99 134.62 0)
+			(at 36.83 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3567,7 +3567,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 36.83 134.62 180)
+		(at 46.99 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3575,7 +3575,7 @@
 		(dnp no)
 		(uuid "e1047105-f58e-45b1-ba84-9af18c1a81ed")
 		(property "Reference" "D1"
-			(at 36.83 130.302 0)
+			(at 46.99 130.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3583,7 +3583,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 36.83 132.08 0)
+			(at 46.99 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3591,7 +3591,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 36.83 134.62 0)
+			(at 46.99 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3600,7 +3600,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 134.62 0)
+			(at 46.99 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3609,7 +3609,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 36.83 134.62 0)
+			(at 46.99 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3618,7 +3618,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 36.83 134.62 0)
+			(at 46.99 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3627,7 +3627,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 36.83 134.62 0)
+			(at 46.99 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
